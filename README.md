@@ -1,4 +1,4 @@
-
+### PATHIFY is a python based Path-finding visualiser made with pyGame library for popular Data Structures and Algorithm concepts like A*, DFS, BFS, Djikstra, etc. It focuses on finding the most optimized path for each of the algorithms and ensure smooth data flow. 
 ## Controls
 
 * First two mouse click to add Source node, End node
